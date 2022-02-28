@@ -1,2 +1,3 @@
-# Desafio-DIO-NETFLIX
-Clonando a NETFLIX
+Desafio-DIO-NETFLIX
+
+Favicon adicionao ao projeto original
