@@ -1,3 +1,3 @@
 Desafio-DIO-NETFLIX
 
-Favicon adicionao ao projeto original
+Favicon adicionado ao projeto original
